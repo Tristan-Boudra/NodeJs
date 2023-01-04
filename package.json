@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Lorem ipsum dolor sit amet",
   "main": "server.ts",
+  "repertory": "https://github.com/Tristan-Boudra/NodeJs",
   "scripts": {
     "start": "NODE_OPTIONS=\"--experimental-specifier-resolution=node --loader ts-node/esm\" node --watch src/server.ts",
     "test": "jest"
